@@ -131,7 +131,7 @@ exclude[css][] = 'modules/user/user.css'
 ;exclude[css][] = 'modules/system/system.css'
 ;exclude[css][] = 'modules/system/system.admin.css'
 ;exclude[css][] = 'modules/system/system.base.css'
-stylesheets[all][] = site.css
+stylesheets[all][] = 'css/site.css'
 
 ;;;;;;;;;;;;;;;;;;;;;
 ;; SimplyTest.me

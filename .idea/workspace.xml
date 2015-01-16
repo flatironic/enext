@@ -69,7 +69,7 @@
       <file leaf-file-name="bootstrap.info" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="137" column="21" selection-start="4381" selection-end="4381" vertical-scroll-proportion="0.6396396" vertical-offset="1629" max-vertical-offset="2295">
+            <state line="133" column="35" selection-start="4325" selection-end="4325" vertical-scroll-proportion="0.8648649" vertical-offset="1419" max-vertical-offset="2295">
               <folding />
             </state>
           </provider>
@@ -678,7 +678,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sites/all/themes/bootstrap/bootstrap.info">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="21" selection-start="4381" selection-end="4381" vertical-scroll-proportion="0.6396396" vertical-offset="1629" max-vertical-offset="2295">
+        <state line="133" column="35" selection-start="4325" selection-end="4325" vertical-scroll-proportion="0.8648649" vertical-offset="1419" max-vertical-offset="2295">
           <folding />
         </state>
       </provider>
