@@ -100,7 +100,6 @@ settings[toggle_search] = 1
 
 ; CSS
 ; --------------
-stylesheets[all][] = site.css
 exclude[css][] = 'misc/vertical-tabs.css'
 exclude[css][] = 'modules/aggregator/aggregator.css'
 ; Necessary administrative block CSS.
@@ -132,7 +131,7 @@ exclude[css][] = 'modules/user/user.css'
 ;exclude[css][] = 'modules/system/system.css'
 ;exclude[css][] = 'modules/system/system.admin.css'
 ;exclude[css][] = 'modules/system/system.base.css'
-
+stylesheets[all][] = site.css
 
 ;;;;;;;;;;;;;;;;;;;;;
 ;; SimplyTest.me
